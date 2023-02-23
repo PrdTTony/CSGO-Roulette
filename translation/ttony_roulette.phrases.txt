@@ -1,0 +1,54 @@
+"Phrases"
+{
+  "ChooseType"
+  {
+    "#format" "{1:i}"
+	"pt" "Escolhe o tipo de aposta"
+	"en" "➤Roulette System™ by TTony © \n➤You have: {1} Credits \n➤Bet range: 50 - 500 \n➤Bet range for VIPs: 1000 - 10000 \n"
+	"hu" "Válaszd ki a fogadásod típusát"
+  } 
+  "ChooseCredits"
+  {
+    "#format" "{1:i}"
+	"pt" "Escolhe a quantidade de créditos! Tens: {1} Créditos"
+	"en" "➤Choose the amount of credits! \n➤You have: {1} Credits"
+	"hu" "Válassz kredit mennyiséget! {1} Kredited van"
+  } 
+  "NoEnoughCredits"
+  {
+    "#format" "{1:i}"
+	"pt" "Precisas de mais {1} créditos para apostar!"
+	"en" "You need more {1} credits to bet"
+	"hu" "{1} kreditre van még szükséged a fogadáshoz"
+  } 
+  "AlreadySpinning"
+  {
+	"pt" "A Roleta já está a rodar. Espera que acabe"
+	"en" "Roulette already spinning. Wait for it to finish"
+	"hu" "Rulett jelenleg pörög. Várd meg a végét"
+  } 
+  "NoLoseNoWin"
+  {
+	"#format" "{1:N}"
+	"pt" "{red}{1}{green} não perdeu nem ganhou"
+	"en" "{red}{1}{green} didn't lose nor win"
+  } 
+  "YouWin"
+  {
+    "#format" "{1:N},{2:i},{3:i}"
+	"pt" "{red}{1}{green} ganhou {red}{2}{green} Créditos{blue}[x{3}]{green}"
+	"en" "{red}[Roulette] {red}{1}{white} won {lime}{2}{white} credits"
+  } 
+  "YouLost"
+  {
+    "#format" "{1:N},{2:i}"
+	"pt" "{red}{1}{green} perdeu {red}{2}{green} créditos"
+	"en" "{red}{1}{green} lost {red}{2}{green} credits"
+  } 
+  "WinNumber"
+  {
+    "#format" "{1:N},{2:i}"
+	"pt" "{red}{1}{green} calhou o número: {red}{2}"
+	"en" "{red}{1}{green} got number: {red}{2}"
+  }
+}
